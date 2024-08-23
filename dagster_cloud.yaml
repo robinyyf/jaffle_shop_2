@@ -1,6 +1,0 @@
-locations:
-- build:
-    directory: ./jaffle_dagster_2
-  code_source:
-    module_name: jaffle_dagster_2.definitions
-  location_name: jaffle_dagster_2
